@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{24744348-2D47-410B-94F7-ED01CDB84F2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5CC51194-66D9-4180-8862-E5F83CA312B6}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 1 - Galactic Resource Manager", "Week 1 - Galactic Resource Manager\Week 1 - Galactic Resource Manager.vcxproj", "{CF6E0CD8-5959-4033-AB88-4118975FF306}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 2 - Text Adventure Game", "Week 2 - Text Adventure Game\Week 2 - Text Adventure Game.vcxproj", "{FAB8528C-7B51-4A45-9670-EDD88F01B016}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 3 - Recursive Pyramid of Letters", "Week 3 - Recursive Pyramid of Letters\Week 3 - Recursive Pyramid of Letters.vcxproj", "{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week 4 - Maze Loader", "Week 4 - Maze Loader\Week 4 - Maze Loader.vcxproj", "{EF6C7848-CDD1-444F-9531-D153DAEB03F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Debug|x64.ActiveCfg = Debug|x64
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Debug|x64.Build.0 = Debug|x64
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Debug|x86.Build.0 = Debug|Win32
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Release|x64.ActiveCfg = Release|x64
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Release|x64.Build.0 = Release|x64
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Release|x86.ActiveCfg = Release|Win32
+		{CF6E0CD8-5959-4033-AB88-4118975FF306}.Release|x86.Build.0 = Release|Win32
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Debug|x64.ActiveCfg = Debug|x64
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Debug|x64.Build.0 = Debug|x64
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Debug|x86.Build.0 = Debug|Win32
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Release|x64.ActiveCfg = Release|x64
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Release|x64.Build.0 = Release|x64
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Release|x86.ActiveCfg = Release|Win32
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016}.Release|x86.Build.0 = Release|Win32
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Debug|x64.ActiveCfg = Debug|x64
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Debug|x64.Build.0 = Debug|x64
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Debug|x86.Build.0 = Debug|Win32
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Release|x64.ActiveCfg = Release|x64
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Release|x64.Build.0 = Release|x64
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Release|x86.ActiveCfg = Release|Win32
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32}.Release|x86.Build.0 = Release|Win32
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Debug|x64.ActiveCfg = Debug|x64
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Debug|x64.Build.0 = Debug|x64
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Debug|x86.Build.0 = Debug|Win32
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Release|x64.ActiveCfg = Release|x64
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Release|x64.Build.0 = Release|x64
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Release|x86.ActiveCfg = Release|Win32
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF6E0CD8-5959-4033-AB88-4118975FF306} = {24744348-2D47-410B-94F7-ED01CDB84F2C}
+		{FAB8528C-7B51-4A45-9670-EDD88F01B016} = {24744348-2D47-410B-94F7-ED01CDB84F2C}
+		{C5BF2E5D-1327-4444-B3B3-D59CC9C47C32} = {24744348-2D47-410B-94F7-ED01CDB84F2C}
+		{EF6C7848-CDD1-444F-9531-D153DAEB03F0} = {24744348-2D47-410B-94F7-ED01CDB84F2C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBF6D0D-8044-420F-8A89-EAEBF99CB6B9}
+	EndGlobalSection
+EndGlobal
